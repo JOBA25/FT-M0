@@ -65,3 +65,10 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
   justify-content: center;
 }
 
+#elementoUno{
+  align-self: flex-end;
+}
+
+#elementoTres{
+  align-self: flex-start;
+}
